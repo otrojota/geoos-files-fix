@@ -1,0 +1,19 @@
+{
+  "name": "geoos-files-fix",
+  "version": "1.0.0",
+  "description": "Fix geojson files in geoos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otrojota/geoos-files-fix.git"
+  },
+  "author": "Jota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otrojota/geoos-files-fix/issues"
+  },
+  "homepage": "https://github.com/otrojota/geoos-files-fix#readme"
+}
