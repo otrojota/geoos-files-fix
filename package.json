@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/otrojota/geoos-files-fix/issues"
   },
-  "homepage": "https://github.com/otrojota/geoos-files-fix#readme"
+  "homepage": "https://github.com/otrojota/geoos-files-fix#readme",
+  "dependencies": {
+    "@turf/turf": "^5.1.6"
+  }
 }

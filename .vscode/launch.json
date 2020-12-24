@@ -12,7 +12,7 @@
                 "<node_internals>/**"
             ],
             "program": "${workspaceFolder}/index.js",
-            "args": ["./../dev-data/data/bcn-regional/comunas.geojson"]
+            "args": ["/Users/jota/proyectos/PUCV/geoos/doc/files/ine/comunas.geojson"]
         }
     ]
 }

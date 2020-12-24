@@ -7,12 +7,7 @@ async function start() {
         process.exit(1);
     }
     console.log("Fix file: " + file);
-    if (file.endsWith("/comunas.geojson")) {
-        await require("./lib/FixComunas")(file)
-    } else {
-        console.error("Archivo no reconocido");
-        process.exit(1);
-    }
+    await require("./lib/Simplify")(file);
     
     console.log("Finalizado");
 }
